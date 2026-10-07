@@ -966,6 +966,7 @@
 - [BackgroundRemover](https://backgroundremover.app) - A free web application that lets you Remove Background from images and video. [![repo][repo.svg]](https://github.com/nadermx/backgroundremover) ![open][open.svg]
 - [BgSub](https://bgsub.com/webapp/) - A website that uses AI technology to automatically remove or replace image backgrounds.
 - [Cleanup.Picture](https://cleanup.pictures/) - A free web application that lets you quickly cleanup or remove objects in any image.
+- [Practical Web Tools](https://practicalwebtools.com/) - 1,400+ free browser tools: PDF editors & converters, image/audio converters, background removal, 200+ calculators. All client-side, no uploads.
 - [Lama Cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. ![open][open.svg]
 - [Rembg](https://github.com/danielgatis/rembg) - A command line tool to remove images background. ![open][open.svg]
 - ~~[Remove.bg](https://www.remove.bg/) - Remove background from images 100% automatically in 5 seconds without a single click.~~
